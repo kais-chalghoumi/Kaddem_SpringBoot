@@ -12,7 +12,6 @@ import java.util.List;
 import java.util.Set;
 
 @Slf4j
-
 @Service
 public class DepartementServiceImpl implements IDepartementService{
 
